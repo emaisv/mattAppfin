@@ -1,13 +1,14 @@
 //
 //  ViewController.swift
-//  mattAppfin
+//  scrollTest
 //
-//  Created by Emily on 7/23/21.
+//  Created by Emily on 7/21/21.
 //
+
 import UIKit
 import AVFoundation
 
-class ViewController: UIViewController {
+class homeViewController: UIViewController {
     
    
     var player : AVPlayer?
@@ -39,4 +40,17 @@ class ViewController: UIViewController {
     @objc func playerItemDidReachEnd(){
         player!.seek(to: CMTime.zero)
     }
+   
+
+    @IBAction func wellnessClick(_ sender: Any) {
+
+    }
+    
+    @IBAction func WaterTrackerPgButton(_ sender: Any) {
+    }
+    
 }
+
+
+
+

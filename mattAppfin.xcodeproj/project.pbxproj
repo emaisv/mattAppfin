@@ -7,23 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A1A4A06C26AAD170002DF0BB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A4A06926AAD170002DF0BB /* ViewController.swift */; };
+		A1A4A06D26AAD170002DF0BB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A4A06A26AAD170002DF0BB /* LoginViewController.swift */; };
+		A1A4A06E26AAD170002DF0BB /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A4A06B26AAD170002DF0BB /* SignUpViewController.swift */; };
 		A1F8BE9026AAB55F00AFA8F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BE8F26AAB55F00AFA8F3 /* AppDelegate.swift */; };
 		A1F8BE9226AAB55F00AFA8F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BE9126AAB55F00AFA8F3 /* SceneDelegate.swift */; };
-		A1F8BE9426AAB55F00AFA8F3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BE9326AAB55F00AFA8F3 /* ViewController.swift */; };
 		A1F8BE9726AAB55F00AFA8F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F8BE9526AAB55F00AFA8F3 /* Main.storyboard */; };
 		A1F8BE9926AAB56000AFA8F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1F8BE9826AAB56000AFA8F3 /* Assets.xcassets */; };
 		A1F8BE9C26AAB56000AFA8F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1F8BE9A26AAB56000AFA8F3 /* LaunchScreen.storyboard */; };
+		A1F8BEA426AAB61F00AFA8F3 /* pond drop.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A1F8BEA326AAB61F00AFA8F3 /* pond drop.mp4 */; };
+		A1F8BEA926AAB94000AFA8F3 /* waterTrackerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEA526AAB93F00AFA8F3 /* waterTrackerViewController.swift */; };
+		A1F8BEAA26AAB94000AFA8F3 /* nutrition2VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEA626AAB93F00AFA8F3 /* nutrition2VC2.swift */; };
+		A1F8BEAB26AAB94000AFA8F3 /* nuttrition1VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEA726AAB93F00AFA8F3 /* nuttrition1VC.swift */; };
+		A1F8BEAC26AAB94000AFA8F3 /* nutrition3VC3.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEA826AAB94000AFA8F3 /* nutrition3VC3.swift */; };
+		A1F8BEB526AABE3900AFA8F3 /* technologyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEB426AABE3900AFA8F3 /* technologyViewController.swift */; };
+		A1F8BEB726AACA2500AFA8F3 /* scienceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEB626AACA2500AFA8F3 /* scienceViewController.swift */; };
+		A1F8BEB926AACA2E00AFA8F3 /* mathViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEB826AACA2E00AFA8F3 /* mathViewController.swift */; };
+		A1F8BEBB26AACA3800AFA8F3 /* englishViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEBA26AACA3800AFA8F3 /* englishViewController.swift */; };
+		A1F8BEBD26AACA4000AFA8F3 /* historyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F8BEBC26AACA4000AFA8F3 /* historyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A1A4A06926AAD170002DF0BB /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = "../../../.Trash/mattApp 4.25.04 AM/MATT Proto/View Controllers/ViewController.swift"; sourceTree = "<group>"; };
+		A1A4A06A26AAD170002DF0BB /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = "../../../.Trash/mattApp 4.25.04 AM/MATT Proto/View Controllers/LoginViewController.swift"; sourceTree = "<group>"; };
+		A1A4A06B26AAD170002DF0BB /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignUpViewController.swift; path = "../../../.Trash/mattApp 4.25.04 AM/MATT Proto/View Controllers/SignUpViewController.swift"; sourceTree = "<group>"; };
 		A1F8BE8C26AAB55F00AFA8F3 /* mattAppfin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mattAppfin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1F8BE8F26AAB55F00AFA8F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A1F8BE9126AAB55F00AFA8F3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A1F8BE9326AAB55F00AFA8F3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A1F8BE9626AAB55F00AFA8F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A1F8BE9826AAB56000AFA8F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1F8BE9B26AAB56000AFA8F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1F8BE9D26AAB56000AFA8F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1F8BEA326AAB61F00AFA8F3 /* pond drop.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pond drop.mp4"; sourceTree = "<group>"; };
+		A1F8BEA526AAB93F00AFA8F3 /* waterTrackerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = waterTrackerViewController.swift; sourceTree = "<group>"; };
+		A1F8BEA626AAB93F00AFA8F3 /* nutrition2VC2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = nutrition2VC2.swift; sourceTree = "<group>"; };
+		A1F8BEA726AAB93F00AFA8F3 /* nuttrition1VC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = nuttrition1VC.swift; sourceTree = "<group>"; };
+		A1F8BEA826AAB94000AFA8F3 /* nutrition3VC3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = nutrition3VC3.swift; sourceTree = "<group>"; };
+		A1F8BEB426AABE3900AFA8F3 /* technologyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = technologyViewController.swift; sourceTree = "<group>"; };
+		A1F8BEB626AACA2500AFA8F3 /* scienceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scienceViewController.swift; sourceTree = "<group>"; };
+		A1F8BEB826AACA2E00AFA8F3 /* mathViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mathViewController.swift; sourceTree = "<group>"; };
+		A1F8BEBA26AACA3800AFA8F3 /* englishViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = englishViewController.swift; sourceTree = "<group>"; };
+		A1F8BEBC26AACA4000AFA8F3 /* historyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = historyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +80,35 @@
 		A1F8BE8E26AAB55F00AFA8F3 /* mattAppfin */ = {
 			isa = PBXGroup;
 			children = (
+				A1F8BEB626AACA2500AFA8F3 /* scienceViewController.swift */,
+				A1F8BEB826AACA2E00AFA8F3 /* mathViewController.swift */,
+				A1F8BEBA26AACA3800AFA8F3 /* englishViewController.swift */,
+				A1F8BEBC26AACA4000AFA8F3 /* historyViewController.swift */,
 				A1F8BE8F26AAB55F00AFA8F3 /* AppDelegate.swift */,
 				A1F8BE9126AAB55F00AFA8F3 /* SceneDelegate.swift */,
-				A1F8BE9326AAB55F00AFA8F3 /* ViewController.swift */,
+				A1A4A06A26AAD170002DF0BB /* LoginViewController.swift */,
+				A1A4A06B26AAD170002DF0BB /* SignUpViewController.swift */,
+				A1A4A06926AAD170002DF0BB /* ViewController.swift */,
 				A1F8BE9526AAB55F00AFA8F3 /* Main.storyboard */,
+				A1F8BEB426AABE3900AFA8F3 /* technologyViewController.swift */,
+				A1F8BEB326AABC7300AFA8F3 /* Nutrition VCs */,
 				A1F8BE9826AAB56000AFA8F3 /* Assets.xcassets */,
 				A1F8BE9A26AAB56000AFA8F3 /* LaunchScreen.storyboard */,
 				A1F8BE9D26AAB56000AFA8F3 /* Info.plist */,
+				A1F8BEA326AAB61F00AFA8F3 /* pond drop.mp4 */,
 			);
 			path = mattAppfin;
+			sourceTree = "<group>";
+		};
+		A1F8BEB326AABC7300AFA8F3 /* Nutrition VCs */ = {
+			isa = PBXGroup;
+			children = (
+				A1F8BEA726AAB93F00AFA8F3 /* nuttrition1VC.swift */,
+				A1F8BEA626AAB93F00AFA8F3 /* nutrition2VC2.swift */,
+				A1F8BEA826AAB94000AFA8F3 /* nutrition3VC3.swift */,
+				A1F8BEA526AAB93F00AFA8F3 /* waterTrackerViewController.swift */,
+			);
+			path = "Nutrition VCs";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +170,7 @@
 			files = (
 				A1F8BE9C26AAB56000AFA8F3 /* LaunchScreen.storyboard in Resources */,
 				A1F8BE9926AAB56000AFA8F3 /* Assets.xcassets in Resources */,
+				A1F8BEA426AAB61F00AFA8F3 /* pond drop.mp4 in Resources */,
 				A1F8BE9726AAB55F00AFA8F3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,9 +182,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1F8BE9426AAB55F00AFA8F3 /* ViewController.swift in Sources */,
+				A1F8BEB526AABE3900AFA8F3 /* technologyViewController.swift in Sources */,
+				A1F8BEB726AACA2500AFA8F3 /* scienceViewController.swift in Sources */,
 				A1F8BE9026AAB55F00AFA8F3 /* AppDelegate.swift in Sources */,
+				A1F8BEAB26AAB94000AFA8F3 /* nuttrition1VC.swift in Sources */,
+				A1A4A06E26AAD170002DF0BB /* SignUpViewController.swift in Sources */,
+				A1F8BEBB26AACA3800AFA8F3 /* englishViewController.swift in Sources */,
+				A1F8BEAA26AAB94000AFA8F3 /* nutrition2VC2.swift in Sources */,
+				A1F8BEB926AACA2E00AFA8F3 /* mathViewController.swift in Sources */,
+				A1F8BEAC26AAB94000AFA8F3 /* nutrition3VC3.swift in Sources */,
+				A1F8BEA926AAB94000AFA8F3 /* waterTrackerViewController.swift in Sources */,
+				A1A4A06D26AAD170002DF0BB /* LoginViewController.swift in Sources */,
 				A1F8BE9226AAB55F00AFA8F3 /* SceneDelegate.swift in Sources */,
+				A1A4A06C26AAD170002DF0BB /* ViewController.swift in Sources */,
+				A1F8BEBD26AACA4000AFA8F3 /* historyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
